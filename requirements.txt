@@ -1,0 +1,7 @@
+torch>=2.0
+gymnasium[box2d]>=0.29
+numpy
+matplotlib
+imageio
+imageio-ffmpeg
+tqdm
